@@ -1,2 +1,2 @@
-# c1m1_repo
-Github repository containing c1m1 assignment code files
+Author - Hariharan K
+This project implements statistical functions on an array of numbers and adds them to a git repository
